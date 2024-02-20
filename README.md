@@ -1,11 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0084&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Emily+Passos+Siqueira;I'm+23+years+old;I´m+from+Brasil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Emily+Passos+Siqueira;Tenho+23+anos;Sou+de+São+Paulo,+Brasil;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emilyleal&show_icons=true&count_private=true&hide_border=true&title_color=FF0084&icon_color=FF0084&text_color=c9d1d9&bg_color=0d1117" alt="Emily Passos github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyleal&layout=compact&hide_border=true&title_color=FF0084&text_color=ff0084&bg_color=0d1117" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emilyleal&&theme=tokyonight" alt="emilypassos" />
 </div>
 
 ## Tecnologias que eu uso no meu dia
@@ -21,7 +20,7 @@
   
 </div><br/>
 
-Apaixonada por tecnologia.
+#### Apaixonada por tecnologia.
 
 <h3 align="left">Connect with me:</h3>
 
